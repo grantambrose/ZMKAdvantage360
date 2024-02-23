@@ -9,7 +9,7 @@
         compatible = "zmk,combos";
 
         handtoolfordesignprograms {
-            bindings = <&kp SPACE>;
+            bindings = <&kp ENTER>;
             key-positions = <46 28>;
         };
     };
